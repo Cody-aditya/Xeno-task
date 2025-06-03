@@ -12,8 +12,7 @@ This Mini CRM Platform is designed to simplify customer segmentation, deliver pe
 ### Installation Steps
 1. **Clone the Repository**  
    Run the following commands:  
-   `git clone <repository-url>`  
-   `cd <repository-folder>`  
+   `git clone https://github.com/Cody-aditya/Xeno-task.git`  
 
 2. **Install Backend Dependencies**  
    `npm install`  
