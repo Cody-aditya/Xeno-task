@@ -46,16 +46,7 @@ This Mini CRM Platform is designed to simplify customer segmentation, deliver pe
 
 ## 🏛 Architecture Diagram
 
-+-----------------+        +------------------+       +-----------------+
-|  Frontend (UI)  |<------>| Backend (API)    |<----->| Database (MySQL |
-| React.js        |        | Node.js/Express  |       | or MongoDB)     |
-+-----------------+        +------------------+       +-----------------+
-        |                           |                       |
-        |                           |                       |
-+-----------------+        +------------------+       +-----------------+
-|  pub-sub        |<------>| AI Integration   |<----->| External APIs   |
-| architecture    |        | OpenAI, GPT-4    |       | Vendor API, etc.|
-+-----------------+        +------------------+       +-----------------+
+![image](https://github.com/user-attachments/assets/4f2291be-a055-4dcf-9f9c-b239fda9d34d)
 
 
 ## 🌟 Features
